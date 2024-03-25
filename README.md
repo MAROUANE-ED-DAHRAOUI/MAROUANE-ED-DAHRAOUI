@@ -1,9 +1,4 @@
-------------
-# About me
 
-> Marouane Ed-Dahraoui is a 24-year-old software engineering student at [1337](https://1337.ma/) and [ALX](https://www.alxafrica.com/) with a passion for web development and problem-solving. He is a dedicated and detail-oriented individual with a talent for coding and a love for tackling complex challenges.
-
----------------
 | [![MAROUANE-ED-DAHRAOUI GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MAROUANE-ED-DAHRAOUI&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/MAROUANE-ED-DAHRAOUI?tab=repositories) | [![MAROUANE-ED-DAHRAOUI most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MAROUANE-ED-DAHRAOUI&layout=compact&hide_border=true&theme=jolly)](https://github.com/MAROUANE-ED-DAHRAOUI?tab=repositories) |
 |:-:|:-:|
 
