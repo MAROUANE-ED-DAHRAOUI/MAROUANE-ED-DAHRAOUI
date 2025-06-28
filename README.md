@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi 👋, I'm ED-DAHRAOUI MAROUANE</h1>
 | [![MAROUANE-ED-DAHRAOUI GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MAROUANE-ED-DAHRAOUI&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/MAROUANE-ED-DAHRAOUI?tab=repositories) | [![MAROUANE-ED-DAHRAOUI most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MAROUANE-ED-DAHRAOUI&layout=compact&hide_border=true&theme=jolly)](https://github.com/MAROUANE-ED-DAHRAOUI?tab=repositories) |
 |:-:|:-:|
 
