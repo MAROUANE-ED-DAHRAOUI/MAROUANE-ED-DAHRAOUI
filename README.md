@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm ED-DAHRAOUI MAROUANE</h1>
 
----------------
 <p align="center">
   <img src="giphy-4.gif" alt="fun gif" width="250"/>
 </p>
 
+---------------
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MAROUANE-ED-DAHRAOUI&show_icons=true&locale=en&layout=compact" alt="MAROUANE-ED-DAHRAOUI" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MAROUANE-ED-DAHRAOUI&show_icons=true&locale=en" alt="MAROUANE-ED-DAHRAOUI" /></p>
 
