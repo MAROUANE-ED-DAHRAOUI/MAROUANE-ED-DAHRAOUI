@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ED-DAHRAOUI MAROUANE</h1>
 
+---------------
 <p align="center">
   <img src="giphy-4.gif" alt="fun gif" width="250"/>
 </p>
